@@ -17,7 +17,7 @@ Our group made this system to measure body temperature and manage the admissions
 
 ![](https://github.com/Junlin-LONG/BTDS/blob/main/entity%20relationship%20diagram.png)
 
-- Selecting fuctuin design: 
+- Selecting fuction design: 
 
 ![](https://github.com/Junlin-LONG/BTDS/blob/main/select.png)
 
